@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/sunset-house-progressions-simple-synth-preview.mp3",
+  "preview_sha256": "02e804e9b394a80399311c56f9445150fc44e406646a7a6223c1524d3e720b90",
+  "source_midi_path": "midi/z1101-sunset-house-progressions-opening/z1101-sunset-house-progressions-opening-combined.mid",
+  "source_midi_sha256": "ff228f128a22c49ef198a471c8819dbe971cd7dae3536c441d5667cf03fb7a81",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1101",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.106897,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

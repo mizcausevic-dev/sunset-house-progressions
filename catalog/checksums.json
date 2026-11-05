@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1931,
+      "sha256": "78e50faccee5e67ed570f800bbefcd251936b21ea8f9d046d34d6b77ab9cb224"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 206961,
+      "sha256": "e673e9f47c9ff72f952e65fec02a43ceb40504d4915ea0eb6f373e4c0c77df5f"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2112342,
+      "sha256": "0763ef331a20f04ff2b48ebf12b59aeec53196e8b4261f1ac846b5109d3e9beb"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 294,
+      "sha256": "1318078101132ecf9dd814902d113f1e8cd06da4312ce3f46899aee30c4c5ee3"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "58ea809d5c5ca80155152fdd878db667ed5f46784a2327952f4fbd26c0b18cb2"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 222893,
+      "sha256": "714e721142b7e7266d526a7cc128c2f394ff70be4c3bc0a5f60a51432440affc"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 754,
+      "sha256": "34e321d7490fb287f40c39ad9af7ff0adde500b4b62931d23e90c2abecf9746f"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 754,
+      "sha256": "34e321d7490fb287f40c39ad9af7ff0adde500b4b62931d23e90c2abecf9746f"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "f2ef6f9ccc7b2c8ac755ac96bd229235ea7951cff16b81c57e5a0a217de71172"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25206,
+      "sha256": "279ded707e8ad93b6ea62ca34977a91351f94237d3d8c7f084aaf24a9c1a7a51"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103673,
+      "sha256": "4afc635829c6cb36f63aa03b9cfee1358f8a76edf2993cfdd0a8aed866b68e36"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2510,
+      "sha256": "441b033e4c0472eee20aee3a19fe444b75747f749dd3124b13027cc30805d3f7"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "5ae517092a05245edd66e92655a2ce8f902317b70653dad21e9d80b43ee1c23d"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1232,
+      "sha256": "fbb1b80c5c217c38b27638f446e8c7099be9264bf4e7f6a3f67207d65bbdc583"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 389,
+      "sha256": "cb37ef17d769b59bd77d394f1f0d0068095f5b867ea9475d0383607aa6ec5bc3"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z1101-melody-01.mid",
+      "bytes": 165,
+      "sha256": "550de527a3d7dae92b05aeafeb53c2cdffa93c436f1f3850870d9e4a774da1fb"
+    },
+    {
+      "path": "clips/z1101-melody-02.mid",
+      "bytes": 165,
+      "sha256": "8a8f78dba115273036c3d45b14dae1f2b739b9550b0f10147d4e30fb3cd2f5d1"
+    },
+    {
+      "path": "clips/z1101-melody-03.mid",
+      "bytes": 123,
+      "sha256": "b2271ad7df3a56d738e7d489d9b5db97aa45926b0611db42678644081002f6c0"
+    },
+    {
+      "path": "clips/z1101-melody-04.mid",
+      "bytes": 123,
+      "sha256": "1856594361dcde57a501fc90aae031afd49c30055a4aac08c72f80cd26686bda"
+    },
+    {
+      "path": "clips/z1102-melody-01.mid",
+      "bytes": 165,
+      "sha256": "c7025a8eadab8ba2bc5b2285c607b5e5d165eec82fad7d32247f6078d5e5908d"
+    },
+    {
+      "path": "clips/z1102-melody-02.mid",
+      "bytes": 165,
+      "sha256": "45cde31c965b453358fdd21be919f4c2c3760c34012cf3636871ea5c4ae28d71"
+    },
+    {
+      "path": "clips/z1102-melody-03.mid",
+      "bytes": 123,
+      "sha256": "1285247bd6bcf4c2a55a7db1df202ec38171c1d1fb3f134e4b616fd8fdbdbc67"
+    },
+    {
+      "path": "clips/z1102-melody-04.mid",
+      "bytes": 123,
+      "sha256": "dcaa0fb40365ca29baa76ad514f41dd03c652ddd847695f2387c5dad2a3cb398"
+    },
+    {
+      "path": "clips/z1103-melody-01.mid",
+      "bytes": 166,
+      "sha256": "6676c0b47e5062940d844d4931fcf752db5b9705743836d7dc64243cba85d2d9"
+    },
+    {
+      "path": "clips/z1103-melody-02.mid",
+      "bytes": 166,
+      "sha256": "2c474c78b5e4af67dd3c5fc764ba4b9f668e9f48256d16d22d43ef73ca30fa5e"
+    },
+    {
+      "path": "clips/z1103-melody-03.mid",
+      "bytes": 106,
+      "sha256": "fb9230b6bb6819e9d2202ff9ffeb84227ff918762af7c6c25305f432a40e6554"
+    },
+    {
+      "path": "clips/z1103-melody-04.mid",
+      "bytes": 106,
+      "sha256": "62f0d047e2b3f3d76b7b8535d15c38b946428393ca020a84a6f0b06b5f3239c2"
+    },
+    {
+      "path": "clips/z1104-melody-01.mid",
+      "bytes": 166,
+      "sha256": "1813c705bbd47e59448465b6dc1bf7a3ba77e96a066d52f08e2992d8e247602a"
+    },
+    {
+      "path": "clips/z1104-melody-02.mid",
+      "bytes": 166,
+      "sha256": "0e9827131af8ea93388e720fcf007acefb323cb9714393628c8af5d7f279f6c3"
+    },
+    {
+      "path": "clips/z1104-melody-03.mid",
+      "bytes": 105,
+      "sha256": "819d2cf7dfec49ff157a702714b6264ed75e4a914eb01fd950a3ee95a64389fc"
+    },
+    {
+      "path": "clips/z1104-melody-04.mid",
+      "bytes": 105,
+      "sha256": "4c773db2d518744ec852cfcc655400872ff6e782805488f1cfe0f42fbcaab1a8"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 439,
+      "sha256": "d58d4bfead397bef58bf6e661cf434258e9b339246d28a006d4a7ea4368a5eb7"
+    },
+    {
+      "path": "downloads/sunset-house-progressions-midi.zip",
+      "bytes": 31807,
+      "sha256": "45a6a3567a2ab710d68df515b62c22c73fb4992d14a1e0829e6bea2bce55208c"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2792,
+      "sha256": "956272cc04b0f94b4e17dae4c9c5c85da5d63c712a817f855161ad1e3514814d"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 32965,
+      "sha256": "8c8e11d0c529cd0f80b435ea3e42277284454b2cb7fa4f0398099d229a7c71b3"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 188370,
+      "sha256": "b9a1a32ea0a2c1ec1cc79463a7f726a6e5e5a539b1ef5c5e9e208f697fd69101"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 748443,
+      "sha256": "2af61cb56d0ddbc09b0bc4d5b01c7342df74c4232c6f5358eb3168df960b88b9"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1234,
+      "sha256": "beb4dd2e3d6475a14b620c02f73d2f2fb7eba04be12decfaecbe9a2e93ff4a1e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10044,
+      "sha256": "f3b1093a864f0556f023670a500681c860d862514e04acfb2f5f8c24dc166529"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b718e8b4d7769a5445bd40bf83d24cd3f74281772f58dae89c365ab8944c6364"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "58b94f3b4cca618802aae7b64364adf19c1eb4c23f73b791750b841051520391"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "da3bb8b04d13bac85e0d957233c4f24fe00430fb4a4a028fbdf06d0861a351a2"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9e74ca4304e498f6737535e973d07d5ee0147c95563667d5908db38d2b3caa9c"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "30990716f54e24d430cebbd534e8132036ee61c8a385d8353fe79d7fb0083faf"
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/z1101-sunset-house-progressions-opening-combined.mid",
+      "bytes": 6029,
+      "sha256": "ff228f128a22c49ef198a471c8819dbe971cd7dae3536c441d5667cf03fb7a81"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "1def279a51ebd3a956a493e76debaf7032e6c218c754a6a63bb003163ad865e7"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cc427c22a9de9c285a9a20e9e9c810300091838a3cbcc33d5fb5699dd25daebe"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "10c987e2e1a4d92033ec950707fd083a641a4055ab3482330bcc46285cbe848e"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9010820a0abd749c44ea7e31cb2df2da236175d9992f29f87f7e7a6114aeba37"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5478c4eaff3188d820806d575a6e90337d478b696bddcb83ad90c270e5ff6a73"
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/z1102-sunset-house-progressions-variation-combined.mid",
+      "bytes": 6029,
+      "sha256": "6f3ebfbfd2a2e9dd61c4215d20df3a52fcb31d08062b2601af7095f308f26a91"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a66979e12d1b6929e6e831b969eb708cbfcc0f00a218e3a4c03c38772a3f8689"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "395bfd316036713444e7a40283292540ca9ac1906cc7bb8d9cc9145d20bd629c"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "dfa1d6c5113c34c9ff791ed74937aa97b824b6a1ad93de25ebf41b7f84964196"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "f5d9e811b891df0acdd43463f7f881dd6f56bd62cc9ab4f4aba134069ad87831"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da"
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/z1103-sunset-house-progressions-contrast-combined.mid",
+      "bytes": 5995,
+      "sha256": "3c85de13b19159ee5e483b15e23e3a03d52b929c6e1399943b4f70007395b498"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c5e976579eb50d844ecaa23b95774977d14c9b13d1f2e58b5e602b7b55434682"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "122869f15f4b2c6ce04f94ac9a0966ebd70a5adea67ab11dfe2200409a4a8814"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "648021c524b0b6eaff79a364ac02c837b20ba2707904e9c97bb0dfb511166659"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "29571085fb92cbe4022cf3001e2ff0943450b777b906670441383904bb7c0645"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cc97f9c847c87ae42b89863a285acde1349c50d36d1bc7979b130bed268eacb5"
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/z1104-sunset-house-progressions-return-combined.mid",
+      "bytes": 5995,
+      "sha256": "80b6655439bf685fa33c7721628d520d8d3975a4bc773b277102eedf7f562c8f"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1185,
+      "sha256": "7d757cf18ee03e19b3ceb876c020e9737a4b1dc74a6b01f65cde3c07785ed742"
+    },
+    {
+      "path": "preview/sunset-house-progressions-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "02e804e9b394a80399311c56f9445150fc44e406646a7a6223c1524d3e720b90"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3994,
+      "sha256": "150951dbf47ae5900ac8592dc401156a089e9c0102b598202dd531b9241a0bdb"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 228,
+      "sha256": "3db927bebe71b577bf8f098cbac1e7d930cd485fd81038119fc85660a64c706d"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 224460,
+      "sha256": "94b5c9acf76cf324cecb843a83da2622042ad55fbff348590c1b3a0c1bf02fa6"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 201696,
+      "sha256": "8d6446dbe4a0786107a609fe75d34beb33d961337eb6f21c484c6061034b822f"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 186718,
+      "sha256": "298b6978fb1478078b924dfa76e96672769880ff79d49e12a7107a719448a59c"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 190,
+      "sha256": "820835b498e005f3ac4eb2cef4f80fb234ca5ada9e40616449de0de34dc71f27"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "bfb2971e4f6cc35979878efb56830acee46051c04eddd4d83906926fc8c04657"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

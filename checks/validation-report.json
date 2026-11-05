@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:58.646118+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b718e8b4d7769a5445bd40bf83d24cd3f74281772f58dae89c365ab8944c6364",
+      "errors": []
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "58b94f3b4cca618802aae7b64364adf19c1eb4c23f73b791750b841051520391",
+      "errors": []
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "da3bb8b04d13bac85e0d957233c4f24fe00430fb4a4a028fbdf06d0861a351a2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9e74ca4304e498f6737535e973d07d5ee0147c95563667d5908db38d2b3caa9c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "30990716f54e24d430cebbd534e8132036ee61c8a385d8353fe79d7fb0083faf",
+      "errors": []
+    },
+    {
+      "path": "midi/z1101-sunset-house-progressions-opening/z1101-sunset-house-progressions-opening-combined.mid",
+      "bytes": 6029,
+      "sha256": "ff228f128a22c49ef198a471c8819dbe971cd7dae3536c441d5667cf03fb7a81",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "1def279a51ebd3a956a493e76debaf7032e6c218c754a6a63bb003163ad865e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cc427c22a9de9c285a9a20e9e9c810300091838a3cbcc33d5fb5699dd25daebe",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "10c987e2e1a4d92033ec950707fd083a641a4055ab3482330bcc46285cbe848e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9010820a0abd749c44ea7e31cb2df2da236175d9992f29f87f7e7a6114aeba37",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5478c4eaff3188d820806d575a6e90337d478b696bddcb83ad90c270e5ff6a73",
+      "errors": []
+    },
+    {
+      "path": "midi/z1102-sunset-house-progressions-variation/z1102-sunset-house-progressions-variation-combined.mid",
+      "bytes": 6029,
+      "sha256": "6f3ebfbfd2a2e9dd61c4215d20df3a52fcb31d08062b2601af7095f308f26a91",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a66979e12d1b6929e6e831b969eb708cbfcc0f00a218e3a4c03c38772a3f8689",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "395bfd316036713444e7a40283292540ca9ac1906cc7bb8d9cc9145d20bd629c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "dfa1d6c5113c34c9ff791ed74937aa97b824b6a1ad93de25ebf41b7f84964196",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "f5d9e811b891df0acdd43463f7f881dd6f56bd62cc9ab4f4aba134069ad87831",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da",
+      "errors": []
+    },
+    {
+      "path": "midi/z1103-sunset-house-progressions-contrast/z1103-sunset-house-progressions-contrast-combined.mid",
+      "bytes": 5995,
+      "sha256": "3c85de13b19159ee5e483b15e23e3a03d52b929c6e1399943b4f70007395b498",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c5e976579eb50d844ecaa23b95774977d14c9b13d1f2e58b5e602b7b55434682",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "122869f15f4b2c6ce04f94ac9a0966ebd70a5adea67ab11dfe2200409a4a8814",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "648021c524b0b6eaff79a364ac02c837b20ba2707904e9c97bb0dfb511166659",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "29571085fb92cbe4022cf3001e2ff0943450b777b906670441383904bb7c0645",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cc97f9c847c87ae42b89863a285acde1349c50d36d1bc7979b130bed268eacb5",
+      "errors": []
+    },
+    {
+      "path": "midi/z1104-sunset-house-progressions-return/z1104-sunset-house-progressions-return-combined.mid",
+      "bytes": 5995,
+      "sha256": "80b6655439bf685fa33c7721628d520d8d3975a4bc773b277102eedf7f562c8f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

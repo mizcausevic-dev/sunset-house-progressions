@@ -1,0 +1,26 @@
+{
+  "title": "Sunset House Progressions",
+  "study": "z1101",
+  "bpm": 122,
+  "source_audio": "preview/sunset-house-progressions-simple-synth-preview.mp3",
+  "source_audio_sha256": "02e804e9b394a80399311c56f9445150fc44e406646a7a6223c1524d3e720b90",
+  "source_midi": "midi/z1101-sunset-house-progressions-opening/z1101-sunset-house-progressions-opening-combined.mid",
+  "source_midi_sha256": "ff228f128a22c49ef198a471c8819dbe971cd7dae3536c441d5667cf03fb7a81",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4afc635829c6cb36f63aa03b9cfee1358f8a76edf2993cfdd0a8aed866b68e36",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "e673e9f47c9ff72f952e65fec02a43ceb40504d4915ea0eb6f373e4c0c77df5f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "2af61cb56d0ddbc09b0bc4d5b01c7342df74c4232c6f5358eb3168df960b88b9",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
