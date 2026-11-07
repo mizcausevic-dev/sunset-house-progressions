@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/sunset-house-progressions-midi.zip",
-      "bytes": 31807,
-      "sha256": "45a6a3567a2ab710d68df515b62c22c73fb4992d14a1e0829e6bea2bce55208c"
+      "bytes": 32794,
+      "sha256": "3271382195f20100e00b208d7dd744d214a0730bc3b67a2aa96880b645c76750"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "f3b1093a864f0556f023670a500681c860d862514e04acfb2f5f8c24dc166529"
+      "bytes": 10234,
+      "sha256": "fdaaedd823338942852c8b4fcdcc67054c3ff34976964bd1ad3d1ebdd7e46553"
     },
     {
       "path": "midi/z1101-sunset-house-progressions-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "80b6655439bf685fa33c7721628d520d8d3975a4bc773b277102eedf7f562c8f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1185,
       "sha256": "7d757cf18ee03e19b3ceb876c020e9737a4b1dc74a6b01f65cde3c07785ed742"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4000,
-      "sha256": "cfbb0223d6ca9442afba6845c05756dbb925f77fa4af6e54ec6d21eeac4cc7dc"
+      "bytes": 4115,
+      "sha256": "2999cbdc78b34cb8aa072adaca4e2d06fb9cc443a9fdef85eb584653ac440dbe"
     },
     {
       "path": "social/instagram/caption.txt",
